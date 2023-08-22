@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Emoot**
 
-- 🌱 I’m currently learning **React, Next.Js and Supabase**
+- 🌱 I’m currently learning **Node.Js, Next.Js and Supabase**
 
 - 📫 How to reach me **alishba5ahmedali@gmail.com**
 
