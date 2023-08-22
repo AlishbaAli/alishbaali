@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alishba Ali</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Emoot**
+- 🔭 I’m currently working on **Emoot** ,**Logic Loom**
 
 - 🌱 I’m currently learning **Node.Js, Next.Js and Supabase**
 
