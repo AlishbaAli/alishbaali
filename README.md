@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Emoot** 
 
-- 🌱 I’m currently learning **Node.Js, Next.Js and Supabase**
-
 - 📫 How to reach me **alishba5ahmedali@gmail.com**
 
 - ⚡ Fun fact **Spiders are the only web developers who love finding bugs**
